@@ -1,4 +1,4 @@
 
 Este é o exemplo de um ficheiro de texto
-:qw
+-- eliminar linha --
 
